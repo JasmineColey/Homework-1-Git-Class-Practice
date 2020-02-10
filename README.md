@@ -1,1 +1,1 @@
-# Homework-1-Git-Class-Practice
+# Homework 1 Git Demo
